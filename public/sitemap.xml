@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://sriannamarmahal.com/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sriannamarmahal.com/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://sriannamarmahal.com/?lang=ta"/>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://sriannamarmahal.com/about</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sriannamarmahal.com/about"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://sriannamarmahal.com/about?lang=ta"/>
+  </url>
+
+  <!-- Services Page -->
+  <url>
+    <loc>https://sriannamarmahal.com/services</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sriannamarmahal.com/services"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://sriannamarmahal.com/services?lang=ta"/>
+  </url>
+
+  <!-- Gallery Page -->
+  <url>
+    <loc>https://sriannamarmahal.com/gallery</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sriannamarmahal.com/gallery"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://sriannamarmahal.com/gallery?lang=ta"/>
+  </url>
+
+  <!-- Pricing Page -->
+  <url>
+    <loc>https://sriannamarmahal.com/pricing</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sriannamarmahal.com/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://sriannamarmahal.com/pricing?lang=ta"/>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://sriannamarmahal.com/contact</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sriannamarmahal.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://sriannamarmahal.com/contact?lang=ta"/>
+  </url>
+
+</urlset>
